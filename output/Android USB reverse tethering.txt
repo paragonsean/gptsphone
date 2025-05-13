@@ -1,6 +1,0 @@
-
-                        selinux
-selinux/sepolicy misc info
- 
-loglocation: /data/misc/audit (samsung note4)
-                    
